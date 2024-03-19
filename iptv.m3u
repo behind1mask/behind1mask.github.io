@@ -389,8 +389,6 @@ http://117.86.51.241:8888/rtp/239.49.9.38:6000
 http://117.86.51.241:8888/rtp/239.49.9.36:6000
 #EXTINF:-1 tvg-id="JS04" tvg-name="江苏新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu1.png" group-title="江苏频道",江苏新闻
 http://117.86.51.241:8888/rtp/239.49.9.40:6000
-#EXTINF:-1 tvg-id="JS05" tvg-name="优漫卡通" tvg-logo="https://upload.112114.xyz/logo/%E4%BC%98%E6%BC%AB%E5%8D%A1%E9%80%9A.png" group-title="江苏频道",优漫卡通
-http://180.126.96.225:8800/rtp/239.49.9.39:6000
 #EXTINF:-1 tvg-id="JS06" tvg-name="江苏体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu5.png" group-title="江苏频道",江苏体育
 http://117.86.51.241:8888/rtp/239.49.9.37:6000
 #EXTINF:-1 tvg-id="JS07" tvg-name="江苏教育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu7.png" group-title="江苏频道",江苏教育
