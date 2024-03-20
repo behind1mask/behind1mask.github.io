@@ -6,7 +6,7 @@ http://[2409:8087:7001:20:3::2]/dbiptv.sn.chinamobile.com/PLTV/4/224/3221226195/
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视频道",CCTV-3 综艺
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221227067/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001333/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://[2409:8087:7000:20::204]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事
@@ -217,6 +217,8 @@ http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226360/index.m3u8
 #EXTINF:-1 tvg-id="陕西五套" tvg-name="陕西五套" tvg-logo="https://live.fanmingming.com/tv/陕西公共.png" group-title="陕西频道",陕西公共频道
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226361/index.m3u8
+#EXTINF:-1 tvg-id="陕西五套" tvg-name="陕西六套" tvg-logo="https://live.fanmingming.com/tv/陕西乐家购物.png" group-title="陕西频道",陕西乐家购物
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226362/index.m3u8
 #EXTINF:-1 tvg-id="陕西七套" tvg-name="陕西七套" tvg-logo="https://live.fanmingming.com/tv/陕西体育休闲.png" group-title="陕西频道",陕西体育休闲
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226363/index.m3u8
 #EXTINF:-1 tvg-id="陕西八套" tvg-name="陕西八套" tvg-logo="https://live.fanmingming.com/tv/陕西西部电影.png" group-title="陕西频道",陕西西部电影
