@@ -199,6 +199,61 @@ https://itv.lat/tv/live.php?&line=1&id=cftx
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="卫视频道",中国天气
 https://itv.lat/tv/live.php?&line=1&id=zgtq
 
+#EXTINF:-1 tvg-id="陕西一套" tvg-name="陕西一套" tvg-logo="https://live.fanmingming.com/tv/陕西新闻资讯.png" group-title="陕西频道",陕西新闻资讯
+http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/1.m3u8
+#EXTINF:-1 tvg-id="陕西二套" tvg-name="陕西二套" tvg-logo="https://live.fanmingming.com/tv/陕西都市青春.png" group-title="陕西频道",陕西都市青春
+http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225830/index.m3u8
+#EXTINF:-1 tvg-id="陕西三套" tvg-name="陕西三套" tvg-logo="https://live.fanmingming.com/tv/陕西生活.png" group-title="陕西频道",陕西生活频道
+http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226331/index.m3u8
+#EXTINF:-1 tvg-id="陕西四套" tvg-name="陕西四套" tvg-logo="https://live.fanmingming.com/tv/陕西影视.png" group-title="陕西频道",陕西影视频道
+http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226329/index.m3u8
+#EXTINF:-1 tvg-id="陕西五套" tvg-name="陕西五套" tvg-logo="https://live.fanmingming.com/tv/陕西公共.png" group-title="陕西频道",陕西公共频道
+http://http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226334/index.m3u8
+#EXTINF:-1 tvg-id="陕西七套" tvg-name="陕西七套" tvg-logo="https://live.fanmingming.com/tv/陕西体育休闲.png" group-title="陕西频道",陕西体育休闲
+http://http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226093/index.m3u8
+#EXTINF:-1 tvg-id="陕西八套" tvg-name="陕西八套" tvg-logo="https://live.fanmingming.com/tv/陕西西部电影.png" group-title="陕西频道",陕西西部电影
+http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226332/index.m3u8
+#EXTINF:-1 tvg-id="西安新闻综合" tvg-name="西安新闻综合" tvg-logo="https://live.fanmingming.com/tv/西安新闻综合.png" group-title="陕西频道",西安新闻综合
+http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225668/index.m3u8
+#EXTINF:-1 tvg-id="宝鸡综合" tvg-name="宝鸡综合" tvg-logo="https://live.fanmingming.com/tv/宝鸡综合.png" group-title="陕西频道",宝鸡综合
+http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226038/index.m3u8
+#EXTINF:-1 tvg-id="宝鸡综合" tvg-name="宝鸡公共" tvg-logo="https://live.fanmingming.com/tv/宝鸡公共.png" group-title="陕西频道",宝鸡公共
+http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226344/index.m3u8
+#EXTINF:-1 tvg-id="安康综合" tvg-name="安康综合" tvg-logo="https://live.fanmingming.com/tv/安康综合.png" group-title="陕西频道",安康综合
+http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226053/index.m3u8
+#EXTINF:-1 tvg-id="西乡融媒" tvg-name="西乡融媒" tvg-logo="https://live.fanmingming.com/tv/西乡融媒.png" group-title="陕西频道",西乡融媒
+http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225863/index.m3u8
+#EXTINF:-1 tvg-id="商洛综合" tvg-name="商洛综合" tvg-logo="https://live.fanmingming.com/tv/商洛综合.png" group-title="陕西频道",商洛综合
+http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225666/index.m3u8
+#EXTINF:-1 tvg-id="城固" tvg-name="城固" tvg-logo="https://live.fanmingming.com/tv/城固.png" group-title="陕西频道",城固
+http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225944/index.m3u8
+#EXTINF:-1 tvg-id="扶风" tvg-name="扶风" tvg-logo="https://live.fanmingming.com/tv/扶风.png" group-title="陕西频道",扶风
+http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225935/index.m3u8
+#EXTINF:-1 tvg-id="汉中综合" tvg-name="汉中综合" tvg-logo="https://live.fanmingming.com/tv/汉中综合.png" group-title="陕西频道",汉中综合
+http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226065/index.m3u8
+#EXTINF:-1 tvg-id="勉县综合" tvg-name="勉县综合" tvg-logo="https://live.fanmingming.com/tv/勉县综合.png" group-title="陕西频道",勉县综合
+http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225880/index.m3u8
+#EXTINF:-1 tvg-id="勉县经济" tvg-name="勉县经济" tvg-logo="https://live.fanmingming.com/tv/勉县经济.png" group-title="陕西频道",勉县经济
+http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225946/index.m3u8
+#EXTINF:-1 tvg-id="千阳" tvg-name="千阳" tvg-logo="https://live.fanmingming.com/tv/千阳.png" group-title="陕西频道",千阳
+http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225937/index.m3u8
+#EXTINF:-1 tvg-id="神木一套" tvg-name="神木一套" tvg-logo="https://live.fanmingming.com/tv/神木一套.png" group-title="陕西频道",神木一套
+http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225893/index.m3u8
+#EXTINF:-1 tvg-id="神木二套" tvg-name="神木二套" tvg-logo="https://live.fanmingming.com/tv/神木二套.png" group-title="陕西频道",神木二套
+http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225991/index.m3u8
+#EXTINF:-1 tvg-id="榆林公共" tvg-name="榆林公共" tvg-logo="https://live.fanmingming.com/tv/榆林公共.png" group-title="陕西频道",榆林公共
+http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226337/index.m3u8
+#EXTINF:-1 tvg-id="榆林综合" tvg-name="榆林综合" tvg-logo="https://live.fanmingming.com/tv/榆林综合.png" group-title="陕西频道",榆林综合
+http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225823/index.m3u8
+#EXTINF:-1 tvg-id="佳县" tvg-name="佳县" tvg-logo="https://live.fanmingming.com/tv/佳县.png" group-title="陕西频道",佳县
+http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225890/index.m3u8
+#EXTINF:-1 tvg-id="吴起电视台" tvg-name="吴起电视台" tvg-logo="https://live.fanmingming.com/tv/吴起电视台.png" group-title="陕西频道",吴起电视台
+http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225910/index.m3u8
+#EXTINF:-1 tvg-id="洋县电视台" tvg-name="洋县电视台" tvg-logo="https://live.fanmingming.com/tv/洋县电视台.png" group-title="陕西频道",洋县电视台
+http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225871/index.m3u8
+#EXTINF:-1 tvg-id="紫阳综合" tvg-name="紫阳综合" tvg-logo="https://live.fanmingming.com/tv/紫阳综合.png" group-title="陕西频道",紫阳综合
+http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225928/index.m3u8
+
 #EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="上海频道",上海新闻综合
 https://itv.lat/tv/live.php?&line=1&id=shxwzh
 #EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://live.fanmingming.com/tv/上海都市.png" group-title="上海频道",上海都市
