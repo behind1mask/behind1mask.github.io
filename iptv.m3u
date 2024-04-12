@@ -307,7 +307,7 @@ http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000327/index.m3u8?
 http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000323/index.m3u8?
 #EXTINF:-1 tvg-id="GS06" tvg-name="甘肃兰州新闻综合" tvg-logo="https://upload.112114.xyz/logo/兰州新闻综合.png" group-title="甘肃频道",甘肃兰州新闻综合
 http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000328/index.m3u8?
-#EXTINF:-1 tvg-id="GS07" tvg-name="甘肃兰州文旅" tvg-logo="" group-title="甘肃频道",甘肃兰州文旅
+#EXTINF:-1 tvg-id="GS07" tvg-name="甘肃兰州文旅" tvg-logo="https://upload.112114.xyz/logo/文旅频道.png" group-title="甘肃频道",甘肃兰州文旅
 http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000330/index.m3u8?
 
 #EXTINF:-1 tvg-id="NX01" tvg-name="宁夏公共" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/nx/Ningxia-公共频道.png" group-title="宁夏频道",宁夏公共
@@ -385,8 +385,6 @@ http://124.225.35.97:16080/live/tv2403.m3u8
 https://iptv.hiper25.com/TVB/video.m3u8
 #EXTINF:-1 tvg-id="xg02" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB2.png" tvg-name="TVB明珠台"  group-title="港澳台",TVB明珠台
 https://iptv.hiper25.com/Pearl/video.m3u8
-#EXTINF:-1 tvg-id="xg03" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/RTHK32.png" tvg-name="RTHK32"  group-title="港澳台",港台电视32
-https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="xg05" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Aoshi1.png" tvg-name="澳视澳门"  group-title="港澳台",澳视澳门
 https://iptv.hiper25.com/TDM/video.m3u8
 
