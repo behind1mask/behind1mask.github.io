@@ -368,7 +368,7 @@ http://113.74.172.130:4000/udp/239.77.0.215:5146
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000320/index.m3u8?IAS
 #EXTINF:-1 tvg-id="HN02" tvg-name="海南新闻" tvg-logo="https://upload.112114.xyz/logo/海南新闻.png" group-title="海南频道",海南新闻
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000321/index.m3u8?IAS
-#EXTINF:-1 tvg-id="HN03" tvg-name="海南文旅" tvg-logo="https://upload.112114.xyz/logo/海南文旅" group-title="海南频道",海南文旅
+#EXTINF:-1 tvg-id="HN03" tvg-name="海南文旅" tvg-logo="https://upload.112114.xyz/logo/海南文旅.png" group-title="海南频道",海南文旅
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000322/index.m3u8?IAS
 #EXTINF:-1 tvg-id="HN04" tvg-name="海南少儿" tvg-logo="https://upload.112114.xyz/logo/海南少儿.png" group-title="海南频道",海南少儿
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?IAS
