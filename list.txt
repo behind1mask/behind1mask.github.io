@@ -40,11 +40,11 @@ http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226920/index.m3u8
 #EXTINF:-1 tvg-id="扶风" tvg-name="扶风" tvg-logo="https://live.fanmingming.com/tv/扶风.png" group-title="陕西频道",扶风
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227005/index.m3u8
-#EXTINF:-1 tvg-id="汉中综合频道" tvg-name="汉中综合频道" tvg-logo="https://live.fanmingming.com/tv/汉中综合频道.png" group-title="陕西频道",汉中综合频道
+#EXTINF:-1 tvg-id="汉中综合频道" tvg-name="汉中综合频道" tvg-logo="https://iptv-pro.github.io/logo/汉中-1.png" group-title="陕西频道",汉中综合频道
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226331/index.m3u8
-#EXTINF:-1 tvg-id="汉中公共频道" tvg-name="汉中公共频道" tvg-logo="https://live.fanmingming.com/tv/汉中公共频道.png" group-title="陕西频道",汉中公共频道
+#EXTINF:-1 tvg-id="汉中公共频道" tvg-name="汉中公共频道" tvg-logo="https://iptv-pro.github.io/logo/汉中-2.png" group-title="陕西频道",汉中公共频道
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225990/index.m3u8
-#EXTINF:-1 tvg-id="汉中教育频道" tvg-name="汉中教育频道" tvg-logo="https://live.fanmingming.com/tv/汉中教育频道.png" group-title="陕西频道",汉中教育频道
+#EXTINF:-1 tvg-id="汉中教育频道" tvg-name="汉中教育频道" tvg-logo="https://iptv-pro.github.io/logo/汉中-3.png" group-title="陕西频道",汉中教育频道
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225991/index.m3u8
 #EXTINF:-1 tvg-id="千阳" tvg-name="千阳" tvg-logo="https://live.fanmingming.com/tv/千阳.png" group-title="陕西频道",千阳
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226945/index.m3u8
