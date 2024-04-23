@@ -391,36 +391,26 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010086/1.m3u8
 
 #EXTINF:-1 tvg-id="D07" tvg-name="NHK World日本国际传媒" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NHKWorld.png" group-title="国际",NHK World日本国际传媒
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1 tvg-id="RT08" tvg-name="日本新闻" tvg-logo="" group-title="国际",日本新闻
+#EXTINF:-1 tvg-id="RT08" tvg-name="日本新闻" tvg-logo="https://live.fanmingming.com/tv/NHK.png" group-title="国际",日本新闻
 https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
 #EXTINF:-1 tvg-id="D08" tvg-name="CNA亚洲新闻台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ChannelAsia.png" group-title="国际",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="NBC News" tvg-name="NBC News" tvg-logo="https://live.fanmingming.com/tv/CNBC.png" group-title="国际",NBC News
 https://i.mjh.nz/SamsungTVPlus/CAAJ2700011IF.m3u8
-#EXTINF:-1 tvg-id="N02" tvg-name="News 12 New York" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="国际",News 12 New York
-https://lnc-news12.tubi.video/index.m3u8
 #EXTINF:-1 tvg-id="FOX News" tvg-name="FOX News" tvg-logo="https://live.fanmingming.com/tv/FoxLive.png" group-title="国际",FOX News
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="F02" tvg-name="Fox Weather" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="国际",Fox Weather
-https://247wlive.foxweather.com/stream/index_1280x720.m3u8
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://live.fanmingming.com/tv/CNNNews.png" group-title="国际",CNN
 https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
 #EXTINF:-1 tvg-id="BBC" tvg-name="BBC" tvg-logo="https://live.fanmingming.com/tv/BBCWORLDNEWSASIA.png" group-title="国际",BBC
 https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKY" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="国际",SKY
-http://streamsy.online:2999/coachj88/N93DPKS9pJ/330
 #EXTINF:-1 tvg-id="SKY NEWS" tvg-name="SKY NEWS" tvg-logo="https://live.fanmingming.com/tv/SkyNews.png" group-title="国际",SKY NEWS
 https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KBS world" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="国际",KBS world
+#EXTINF:-1 tvg-id="" tvg-name="KBS world" tvg-logo="https://jaruba.github.io/channel-logos/export/transparent-color/glL3IAbILsnWs8RU2vuTwGNjMDW.png" group-title="国际",KBS world
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FIFA+" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="国际",FIFA+
-https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
 #EXTINF:-1 tvg-id="D09" tvg-name="AlJazeera半岛新闻" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/AlJazeera.png" group-title="国际",AlJazeera半岛新闻
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-id="D10" tvg-name="Arirang TV阿里郎国际放送" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/Arirang_TV.png" group-title="国际",Arirang TV阿里郎国际放送
+#EXTINF:-1 tvg-id="D10" tvg-name="Arirang TV阿里郎国际放送" tvg-logo="https://live.fanmingming.com/tv/ArirangTV.png" group-title="国际",Arirang TV阿里郎国际放送
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-#EXTINF:-1 tvg-id="D11" tvg-name="RT News今日俄罗斯新闻" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/RT_News.png" group-title="国际",RT News今日俄罗斯新闻
-https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-id="TRT_World" tvg-name="TRT World土耳其广播电视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/TRT_World-light.png" group-title="国际",TRT World土耳其广播电视
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-id="TAIWANPLUS" tvg-name="台湾PLUS" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/TAIWANPLUS-light.png" group-title="国际",台湾Plus
