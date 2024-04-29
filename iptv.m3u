@@ -147,6 +147,15 @@ http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-id="康巴卫视" tvg-name="康巴卫视" tvg-logo="https://live.fanmingming.com/tv/康巴卫视.png" group-title="卫视频道",康巴卫视
 http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
 
+#EXTINF:-1 tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://live.fanmingming.com/tv/求索纪录.png" group-title="卫视频道",求索纪录
+http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225713/index.m3u8
+#EXTINF:-1 tvg-id="求索科学" tvg-name="求索科学" tvg-logo="https://live.fanmingming.com/tv/求索科学.png" group-title="卫视频道",求索科学
+http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225728/index.m3u8
+#EXTINF:-1 tvg-id="求索动物" tvg-name="求索动物" tvg-logo="https://live.fanmingming.com/tv/求索动物.png" group-title="卫视频道",求索动物
+http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225730/index.m3u8
+#EXTINF:-1 tvg-id="求索生活" tvg-name="求索生活" tvg-logo="https://live.fanmingming.com/tv/求索生活.png" group-title="卫视频道",求索生活
+http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225715/index.m3u8
+
 #EXTINF:-1 tvg-id="纪实人文" tvg-name="纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="卫视频道",纪实人文
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000365/index.m3u8?IAS
 #EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="卫视频道",纪实科教
