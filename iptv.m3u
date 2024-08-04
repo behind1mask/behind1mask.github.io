@@ -231,19 +231,12 @@ https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 
 #EXTINF:-1 tvg-id="GS01" tvg-name="甘肃经济" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Gansu2.png" group-title="甘肃频道",甘肃经济
-http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000326/index.m3u8?
 #EXTINF:-1 tvg-id="GS02" tvg-name="甘肃公共应急" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Gansu5.png" group-title="甘肃频道",甘肃公共应急
-http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000325/index.m3u8?
 #EXTINF:-1 tvg-id="GS03" tvg-name="甘肃都市" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Gansu1.png" group-title="甘肃频道",甘肃都市
-http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000324/index.m3u8?
 #EXTINF:-1 tvg-id="GS04" tvg-name="甘肃少儿" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Gansu4.png" group-title="甘肃频道",甘肃少儿
-http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000327/index.m3u8?
 #EXTINF:-1 tvg-id="GS05" tvg-name="甘肃文化影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Gansu3.png" group-title="甘肃频道",甘肃文化影视
-http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000323/index.m3u8?
 #EXTINF:-1 tvg-id="GS06" tvg-name="甘肃兰州新闻综合" tvg-logo="https://upload.112114.xyz/logo/兰州新闻综合.png" group-title="甘肃频道",甘肃兰州新闻综合
-http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000328/index.m3u8?
 #EXTINF:-1 tvg-id="GS07" tvg-name="甘肃兰州文旅" tvg-logo="https://upload.112114.xyz/logo/文旅频道.png" group-title="甘肃频道",甘肃兰州文旅
-http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000330/index.m3u8?
 
 #EXTINF:-1 tvg-id="NM01" tvg-name="内蒙古蒙古语卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Neimeng.png" group-title="内蒙古频道",内蒙古蒙古语卫视
 https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
