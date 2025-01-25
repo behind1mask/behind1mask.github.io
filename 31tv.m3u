@@ -273,6 +273,8 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001585/index.m3
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226967/index.m3u8
 #EXTINF:-1 tvg-id="洋县电视台" tvg-name="洋县电视台" tvg-logo="https://live.fanmingming.com/tv/洋县电视台.png" group-title="陕西频道",洋县电视台
 http://[2409:8087:7002:20::3]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226938/index.m3u8
+#EXTINF:-1 tvg-id="镇巴" tvg-name="镇巴" tvg-logo="https://live.fanmingming.com/tv/镇巴.png" group-title="陕西频道",镇巴
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001971/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="紫阳综合" tvg-name="紫阳综合" tvg-logo="https://live.fanmingming.com/tv/紫阳综合.png" group-title="陕西频道",紫阳综合
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227002/index.m3u8
 #EXTINF:-1 tvg-id="FGTV" tvg-name="FGTV" tvg-logo="https://live.fanmingming.com/tv/FGTV.png" group-title="陕西频道",FGTV
