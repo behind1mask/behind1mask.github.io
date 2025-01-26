@@ -247,6 +247,8 @@ http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226378/index.m3u8
 #EXTINF:-1 tvg-id="安康" tvg-name="安康" tvg-logo="https://live.fanmingming.com/tv/安康.png" group-title="陕西频道",安康
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001721/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="宁强综合" tvg-name="宁强综合" tvg-logo="https://live.fanmingming.com/tv/宁强综合.png" group-title="陕西频道",宁强综合
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001870/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="城固" tvg-name="城固" tvg-logo="https://live.fanmingming.com/tv/城固.png" group-title="陕西频道",城固
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226920/index.m3u8
 #EXTINF:-1 tvg-id="略阳" tvg-name="略阳" tvg-logo="https://live.fanmingming.com/tv/略阳.png" group-title="陕西频道",略阳
@@ -257,6 +259,8 @@ http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322122
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226945/index.m3u8
 #EXTINF:-1 tvg-id="神木" tvg-name="神木" tvg-logo="https://live.fanmingming.com/tv/神木.png" group-title="陕西频道",神木
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226993/index.m3u8
+#EXTINF:-1 tvg-id="咸阳" tvg-name="咸阳" tvg-logo="https://live.fanmingming.com/tv/咸阳.png" group-title="陕西频道",咸阳
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001799/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="延安综合" tvg-name="延安综合" tvg-logo="https://live.fanmingming.com/tv/延安综合.png" group-title="陕西频道",延安综合
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001819/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="延安公共" tvg-name="延安公共" tvg-logo="https://live.fanmingming.com/tv/延安公共.png" group-title="陕西频道",延安公共
