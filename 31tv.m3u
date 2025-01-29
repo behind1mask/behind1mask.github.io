@@ -228,61 +228,63 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001769/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001779/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="西安教育" tvg-name="西安教育" tvg-logo="https://live.fanmingming.com/tv/西安教育.png" group-title="陕西频道",西安教育频道
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001789/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="咸阳" tvg-name="咸阳" tvg-logo="https://live.fanmingming.com/tv/咸阳.png" group-title="陕西频道",咸阳
+#EXTINF:-1 tvg-id="咸阳综合" tvg-name="咸阳综合" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/main/咸阳综合.png" group-title="陕西频道",咸阳综合
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001799/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="宝鸡综合频道" tvg-name="宝鸡综合频道" tvg-logo="https://live.fanmingming.com/tv/宝鸡综合频道.png" group-title="陕西频道",宝鸡综合频道
+#EXTINF:-1 tvg-id="宝鸡综合频道" tvg-name="宝鸡综合频道" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/main/宝鸡综合.png" group-title="陕西频道",宝鸡综合频道
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001829/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="宝鸡综合频道" tvg-name="宝鸡公共频道" tvg-logo="https://live.fanmingming.com/tv/宝鸡公共频道.png" group-title="陕西频道",宝鸡公共频道
+#EXTINF:-1 tvg-id="宝鸡公共频道" tvg-name="宝鸡公共频道" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/main/宝鸡公共.png" group-title="陕西频道",宝鸡公共频道
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001737/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="岐山" tvg-name="岐山" tvg-logo="https://live.fanmingming.com/tv/岐山.png" group-title="陕西频道",岐山
+#EXTINF:-1 tvg-id="岐山" tvg-name="岐山" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/main/岐山综合.png" group-title="陕西频道",岐山
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226982/index.m3u8
-#EXTINF:-1 tvg-id="扶风" tvg-name="扶风" tvg-logo="https://live.fanmingming.com/tv/扶风.png" group-title="陕西频道",扶风
+#EXTINF:-1 tvg-id="扶风" tvg-name="扶风" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/main/扶风综合.png" group-title="陕西频道",扶风
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227005/index.m3u8
-#EXTINF:-1 tvg-id="渭南新闻综合" tvg-name="渭南新闻综合" tvg-logo="https://live.fanmingming.com/tv/渭南新闻综合.png" group-title="陕西频道",渭南新闻综合
+#EXTINF:-1 tvg-id="千阳" tvg-name="千阳" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/main/千阳综合.png" group-title="陕西频道",千阳
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226945/index.m3u8
+#EXTINF:-1 tvg-id="渭南新闻综合" tvg-name="渭南新闻综合" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/main/渭南综合.png" group-title="陕西频道",渭南新闻综合
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001585/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="汉中综合频道" tvg-name="汉中综合频道" tvg-logo="https://live.fanmingming.com/tv/汉中综合频道.png" group-title="陕西频道",汉中综合频道
+#EXTINF:-1 tvg-id="汉中综合频道" tvg-name="汉中综合频道" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/main/汉中综合.png" group-title="陕西频道",汉中综合频道
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001497/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="汉中公共频道" tvg-name="汉中公共频道" tvg-logo="https://live.fanmingming.com/tv/汉中公共频道.png" group-title="陕西频道",汉中公共频道
+#EXTINF:-1 tvg-id="汉中公共频道" tvg-name="汉中公共频道" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/main/汉中公共.png" group-title="陕西频道",汉中公共频道
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001262/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="汉中教育频道" tvg-name="汉中教育频道" tvg-logo="https://live.fanmingming.com/tv/汉中教育频道.png" group-title="陕西频道",汉中教育频道
+#EXTINF:-1 tvg-id="汉中教育频道" tvg-name="汉中教育频道" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/main/汉中教育.png" group-title="陕西频道",汉中教育频道
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225991/index.m3u8
-#EXTINF:-1 tvg-id="洋县电视台" tvg-name="洋县电视台" tvg-logo="https://live.fanmingming.com/tv/洋县电视台.png" group-title="陕西频道",洋县电视台
+#EXTINF:-1 tvg-id="留坝综合" tvg-name="留坝综合" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/main/留坝综合.png" group-title="陕西频道",留坝综合
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226000/index.m3u8
+#EXTINF:-1 tvg-id="洋县电视台" tvg-name="洋县电视台" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/main/洋县综合.png" group-title="陕西频道",洋县电视台
 http://[2409:8087:7002:20::3]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226938/index.m3u8
-#EXTINF:-1 tvg-id="镇巴" tvg-name="镇巴" tvg-logo="https://live.fanmingming.com/tv/镇巴.png" group-title="陕西频道",镇巴
+#EXTINF:-1 tvg-id="镇巴" tvg-name="镇巴" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/main/镇巴综合.png" group-title="陕西频道",镇巴
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001971/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="略阳" tvg-name="略阳" tvg-logo="https://live.fanmingming.com/tv/略阳.png" group-title="陕西频道",略阳
+#EXTINF:-1 tvg-id="略阳" tvg-name="略阳" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/main/略阳综合.png" group-title="陕西频道",略阳
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001417/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="宁强综合" tvg-name="宁强综合" tvg-logo="https://live.fanmingming.com/tv/宁强综合.png" group-title="陕西频道",宁强综合
+#EXTINF:-1 tvg-id="宁强综合" tvg-name="宁强综合" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/main/宁强综合.png" group-title="陕西频道",宁强综合
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001870/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="城固" tvg-name="城固" tvg-logo="https://live.fanmingming.com/tv/城固.png" group-title="陕西频道",城固
+#EXTINF:-1 tvg-id="城固" tvg-name="城固" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/main/城固综合.png" group-title="陕西频道",城固
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226920/index.m3u8
-#EXTINF:-1 tvg-id="商洛综合" tvg-name="商洛综合" tvg-logo="https://live.fanmingming.com/tv/商洛综合.png" group-title="陕西频道",商洛综合
+#EXTINF:-1 tvg-id="商洛综合" tvg-name="商洛综合" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/main/商洛综合.png" group-title="陕西频道",商洛综合
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001734/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="西乡融媒" tvg-name="西乡融媒" tvg-logo="https://live.fanmingming.com/tv/西乡融媒.png" group-title="陕西频道",西乡融媒
+#EXTINF:-1 tvg-id="西乡融媒" tvg-name="西乡融媒" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/main/西乡综合.png" group-title="陕西频道",西乡融媒
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226556/index.m3u8
 #EXTINF:-1 tvg-id="安康综合" tvg-name="安康综合" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/main/安康综合.png" group-title="陕西频道",安康综合
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001721/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="佛坪电视台" tvg-name="佛坪电视台" tvg-logo="https://live.fanmingming.com/tv/佛坪电视台.png" group-title="陕西频道",佛坪电视台
+#EXTINF:-1 tvg-id="佛坪电视台" tvg-name="佛坪电视台" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/main/佛坪综合.png" group-title="陕西频道",佛坪电视台
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001929/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="石泉电视台" tvg-name="石泉电视台" tvg-logo="https://live.fanmingming.com/tv/石泉电视台.png" group-title="陕西频道",石泉电视台
+#EXTINF:-1 tvg-id="石泉电视台" tvg-name="石泉电视台" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/main/石泉综合.png" group-title="陕西频道",石泉电视台
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226965/index.m3u8
-#EXTINF:-1 tvg-id="榆林综合" tvg-name="榆林综合" tvg-logo="https://live.fanmingming.com/tv/榆林综合.png" group-title="陕西频道",榆林综合
+#EXTINF:-1 tvg-id="榆林综合" tvg-name="榆林综合" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/main/榆林综合.png" group-title="陕西频道",榆林综合
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001710/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="延安综合" tvg-name="延安综合" tvg-logo="https://live.fanmingming.com/tv/延安综合.png" group-title="陕西频道",延安综合
+#EXTINF:-1 tvg-id="延安综合" tvg-name="延安综合" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/main/延安综合.png" group-title="陕西频道",延安综合
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001819/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="延安公共" tvg-name="延安公共" tvg-logo="https://live.fanmingming.com/tv/延安公共.png" group-title="陕西频道",延安公共
+#EXTINF:-1 tvg-id="延安公共" tvg-name="延安公共" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/main/延安综合.png" group-title="陕西频道",延安公共
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001733/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="神木" tvg-name="神木" tvg-logo="https://live.fanmingming.com/tv/神木.png" group-title="陕西频道",神木
+#EXTINF:-1 tvg-id="神木" tvg-name="神木" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/main/神木综合.png" group-title="陕西频道",神木
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226993/index.m3u8
-#EXTINF:-1 tvg-id="吴起电视台" tvg-name="吴起电视台" tvg-logo="https://live.fanmingming.com/tv/吴起电视台.png" group-title="陕西频道",吴起电视台
+#EXTINF:-1 tvg-id="吴起电视台" tvg-name="吴起电视台" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/main/吴起综合.png" group-title="陕西频道",吴起电视台
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226967/index.m3u8
-#EXTINF:-1 tvg-id="千阳" tvg-name="千阳" tvg-logo="https://live.fanmingming.com/tv/千阳.png" group-title="陕西频道",千阳
-http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226945/index.m3u8
-#EXTINF:-1 tvg-id="铜川新闻综合" tvg-name="铜川新闻综合" tvg-logo="https://live.fanmingming.com/tv/铜川新闻综合.png" group-title="陕西频道",铜川新闻综合
+#EXTINF:-1 tvg-id="铜川新闻综合" tvg-name="铜川新闻综合" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/main/铜川综合.png" group-title="陕西频道",铜川新闻综合
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001735/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="铜川公共" tvg-name="铜川公共" tvg-logo="https://live.fanmingming.com/tv/铜川公共.png" group-title="陕西频道",铜川公共
+#EXTINF:-1 tvg-id="铜川公共" tvg-name="铜川公共" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/main/铜川公共.png" group-title="陕西频道",铜川公共
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001770/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="紫阳综合" tvg-name="紫阳综合" tvg-logo="https://live.fanmingming.com/tv/紫阳综合.png" group-title="陕西频道",紫阳综合
+#EXTINF:-1 tvg-id="紫阳综合" tvg-name="紫阳综合" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/main/紫阳综合.png" group-title="陕西频道",紫阳综合
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227002/index.m3u8
 #EXTINF:-1 tvg-id="FGTV" tvg-name="FGTV" tvg-logo="https://live.fanmingming.com/tv/FGTV.png" group-title="陕西频道",FGTV
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226990/index.m3u8
