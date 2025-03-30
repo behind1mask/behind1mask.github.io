@@ -142,9 +142,7 @@ http://[2409:8087:1e03:21::1c]:6610/cms001/ch00000090990000001183/index.m3u8?
 
 #EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://live.fanmingming.com/tv/山东教育.png" group-title="卫视频道",山东教育
 #EXTINF:-1 tvg-id="纪实人文" tvg-name="纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="卫视频道",纪实人文
-http://[2409:8087:1e03:21::1c]:6610/cms001/ch00000090990000001019/index.m3u8?
 #EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="卫视频道",纪实科教
-http://[2409:8087:1e03:21::1c]:6610/cms001/ch00000090990000001231/index.m3u8?
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/dsjc.png" group-title="卫视频道",都市剧场
 http://[2409:8087:1e03:21::1c]:6610/cms001/ch00000090990000001203/index.m3u8?
 #EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="卫视频道",劲爆体育
@@ -217,9 +215,7 @@ http://[2409:8087:1e03:21::1c]:6610/cms001/ch00000090990000001014/index.m3u8?
 #EXTINF:-1 tvg-name="上海都市" tvg-logo="https://live.fanmingming.com/tv/上海都市.png" group-title="上海频道",上海都市
 http://[2409:8087:1e03:21::1c]:6610/cms001/ch00000090990000001015/index.m3u8?
 #EXTINF:-1 tvg-name="上海外语" tvg-logo="https://live.fanmingming.com/tv/上海外语.png" group-title="上海频道",上海外语
-http://[2409:8087:1e03:21::1c]:6610/cms001/ch00000090990000001128/index.m3u8?
 #EXTINF:-1 tvg-name="七彩戏剧" tvg-logo="https://live.fanmingming.com/tv/七彩戏剧.png" group-title="上海频道",七彩戏剧
-http://[2409:8087:1e03:21::1c]:6610/cms001/ch00000090990000001308/index.m3u8?
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="上海频道",五星体育
 http://[2409:8087:1e03:21::1c]:6610/cms001/ch00000090990000001018/index.m3u8?
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="上海频道",东方影视
