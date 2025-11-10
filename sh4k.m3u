@@ -35,6 +35,7 @@ http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001258/index.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://gh-proxy.com/https://github.com/fanmingming/live/blob/main/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001241/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://gh-proxy.com/https://github.com/fanmingming/live/blob/main/tv/CCTV4K.png" group-title="央视频道",CCTV-4K 超高清
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001451/index.m3u8
 #EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://gh-proxy.com/https://github.com/fanmingming/live/blob/main/tv/CCTV8K.png" group-title="央视频道",CCTV-8K 超高清
 
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://gh-proxy.com/https://github.com/fanmingming/live/blob/main/tv/风云足球.png" group-title="央视频道",风云足球
@@ -172,6 +173,7 @@ http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001066/index.m3u8
 #EXTINF:-1 tvg-id="yxfy" tvg-name="游戏风云" tvg-logo="https://gh-proxy.com/https://github.com/fanmingming/live/blob/main/tv/游戏风云.png" group-title="卫视频道",游戏风云
 #EXTINF:-1 tvg-id="hxjc" tvg-name="欢笑剧场" tvg-logo="https://gh-proxy.com/https://github.com/wanglindl/TVlogo/blob/main/img/hxjchd.png" group-title="卫视频道",欢笑剧场
 #EXTINF:-1 tvg-id="hxjc4K" tvg-name="欢笑剧场4K" tvg-logo="https://gh-proxy.com/https://github.com/wanglindl/TVlogo/blob/main/img/hxjc4k.png" group-title="卫视频道",欢笑剧场4K
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001490/index.m3u8 
 #EXTINF:-1 tvg-id="dycj" tvg-name="生活时尚" tvg-logo="https://gh-proxy.com/https://github.com/fanmingming/live/blob/main/tv/生活时尚.png" group-title="卫视频道",生活时尚
 
 #EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://gh-proxy.com/https://github.com/fanmingming/live/blob/main/tv/上视新闻.png" group-title="上海频道",上海新闻
