@@ -120,21 +120,13 @@ http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001450/index.m3u8
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001223/index.m3u8
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://gh-proxy.com/https://github.com/fanmingming/live/blob/main/tv/海南卫视.png" group-title="卫视频道",海南卫视
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001183/index.m3u8
-#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://gh-proxy.com/https://github.com/fanmingming/live/blob/main/tv/三沙卫视.png" group-title="卫视频道",三沙卫视
-http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001185/index.m3u8
-厦门卫视,
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://gh-proxy.com/https://github.com/fanmingming/live/blob/main/tv/新疆卫视.png" group-title="卫视频道",新疆卫视
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001065/index.m3u8
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://gh-proxy.com/https://github.com/fanmingming/live/blob/main/tv/新疆卫视.png" group-title="卫视频道",西藏卫视
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001072/index.m3u8
-#EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://gh-proxy.com/https://github.com/fanmingming/live/blob/main/tv/新疆卫视.png" group-title="卫视频道",农林卫视
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://gh-proxy.com/https://github.com/fanmingming/live/blob/main/tv/新疆卫视.png" group-title="卫视频道",兵团卫视
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001066/index.m3u8
-#EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://gh-proxy.com/https://github.com/fanmingming/live/blob/main/tv/新疆卫视.png" group-title="卫视频道",安多卫视
-#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://gh-proxy.com/https://github.com/fanmingming/live/blob/main/tv/新疆卫视.png" group-title="卫视频道",厦门卫视
-#EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://gh-proxy.com/https://github.com/fanmingming/live/blob/main/tv/新疆卫视.png" group-title="卫视频道",康巴卫视
-#EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://gh-proxy.com/https://github.com/fanmingming/live/blob/main/tv/新疆卫视.png" group-title="卫视频道",延边卫视
-http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001470/index.m3u8
+
 
 #EXTINF:-1 tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://gh-proxy.com/https://github.com/fanmingming/live/blob/main/tv/求索纪录.png" group-title="卫视频道",求索纪录
 #EXTINF:-1 tvg-id="求索科学" tvg-name="求索科学" tvg-logo="https://gh-proxy.com/https://github.com/fanmingming/live/blob/main/tv/求索科学.png" group-title="卫视频道",求索科学
