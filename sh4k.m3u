@@ -10,6 +10,7 @@ http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001221/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gh-proxy.com/https://github.com/fanmingming/live/blob/main/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001187/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://gh-proxy.com/https://github.com/fanmingming/live/blob/main/tv/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事
+http://39.134.91.132:8112/000000000000/5000000011000031127/1.m3u8
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://gh-proxy.com/https://github.com/fanmingming/live/blob/main/tv/CCTV6.png" group-title="央视频道",CCTV-6 电影
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001188/index.m3u8
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://gh-proxy.com/https://github.com/fanmingming/live/blob/main/tv/CCTV7.png" group-title="央视频道",CCTV-7 国防军事
