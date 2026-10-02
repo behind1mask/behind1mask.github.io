@@ -203,10 +203,12 @@ http://[2409:8087:7001:20:3::5]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001580/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="陕西二套" tvg-name="陕西二套" tvg-logo="https://gh-proxy.com/https://github.com/fanmingming/live/blob/main/tv/陕西都市青春.png" group-title="陕西频道",陕西都市青春
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001593/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="陕西三套" tvg-name="陕西三套" tvg-logo="https://gh-proxy.com/https://github.com/fanmingming/live/blob/main/tv/陕西生活.png" group-title="陕西频道",陕西银龄
+#EXTINF:-1 tvg-id="陕西三套" tvg-name="陕西三套" tvg-logo="https://gh-proxy.com/https://github.com/fanmingming/live/blob/main/tv/陕西生活.png" group-title="陕西频道",陕西生活
+#EXTINF:-1 tvg-id="陕西三套" tvg-name="陕西三套" tvg-logo="http://live.pic.gitv.tv/images/20250103/63/63abd513193306d4657d5693f7249f3c.png" group-title="陕西频道",陕西银龄
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001729/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="陕西四套" tvg-name="陕西四套" tvg-logo="https://gh-proxy.com/https://github.com/fanmingming/live/blob/main/tv/陕西影视.png" group-title="陕西频道",陕西影视频道
-#EXTINF:-1 tvg-id="陕西五套" tvg-name="陕西五套" tvg-logo="https://gh-proxy.com/https://github.com/fanmingming/live/blob/main/tv/陕西公共.png" group-title="陕西频道",陕西秦腔
+#EXTINF:-1 tvg-id="陕西五套" tvg-name="陕西五套" tvg-logo="https://gh-proxy.com/https://github.com/fanmingming/live/blob/main/tv/陕西公共.png" group-title="陕西频道",陕西公共
+#EXTINF:-1 tvg-id="陕西五套" tvg-name="陕西五套" tvg-logo="http://live.pic.gitv.tv/images/20250114/9d/9d9053f91179d8221cd2430ea8df1996.png" group-title="陕西频道",陕西秦腔
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001001/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="陕西七套" tvg-name="陕西七套" tvg-logo="https://gh-proxy.com/https://github.com/fanmingming/live/blob/main/tv/陕西体育休闲.png" group-title="陕西频道",陕西体育休闲
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001002/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
