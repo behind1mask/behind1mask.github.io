@@ -163,6 +163,7 @@ http://[2409:8087:7001:20:3::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001313/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://gh-proxy.com/https://github.com/fanmingming/live/blob/main/tv/CETV1.png" group-title="卫视频道",CETV-1
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001052/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="中国教育2台" tvg-name="中国教育2台" tvg-logo="https://gh-proxy.com/https://github.com/fanmingming/live/blob/main/tv/CETV2.png" group-title="卫视频道",CETV-2
 #EXTINF:-1 tvg-id="中国教育3台" tvg-name="中国教育3台" tvg-logo="https://gh-proxy.com/https://github.com/fanmingming/live/blob/main/tv/CETV3.png" group-title="卫视频道",CETV-3
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
